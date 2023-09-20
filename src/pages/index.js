@@ -53,6 +53,7 @@ const Home = ({data}) => {
                     </BoxGrid>
                 </Wrapper>
             </Container>
+    
         </>
     )
 }
