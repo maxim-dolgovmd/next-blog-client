@@ -122,6 +122,7 @@ const Blog = ({posts}) => {
         <>
             <Head>
                 <title>Blog</title>
+    
             </Head>
             <Container>
                 <Wrapper>
